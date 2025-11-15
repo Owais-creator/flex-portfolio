@@ -161,6 +161,7 @@ body{
   min-width: 250px;
   border-radius: 10px;
   border: 1px solid #ddd;
+  background-color: #3b82f6;
 }
 
 .service h3{
@@ -180,12 +181,14 @@ body{
   flex-wrap: wrap;
 }
 
+
 .project{
   background: #dbeafe;
   padding: 60px;
   border-radius: 10px;
   flex: 1;
   max-width: 250px;
+  background-color: rgb(59, 130, 246);
 }
 
 /* Contact */
